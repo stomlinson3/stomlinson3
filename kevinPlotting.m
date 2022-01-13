@@ -11,7 +11,8 @@ clear all
 % ylabel('tan(x)')
 % ylim([-100,100]);
 %
-% figure(2)
+% figure(iiiiiiiiiiiiiiiiiiiiiiiiiiiq2)
+
 % clf
 % plot(y,atan(y))
 % wasd
